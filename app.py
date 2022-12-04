@@ -44,7 +44,7 @@ with st.container():
         st.write("""""")
         st.subheader(
             """
-            This page is actually made with Python :snake: and the associated Streamlit library. Even though the purpose of this library is mainly data science, this page is made to showcase that even with no knowledge of Web Development you can make a nice looking portfolio page with pure Python code.
+            This page is actually made with pure Python :snake: and the associated Streamlit library.
             """
         )
     with col2:
