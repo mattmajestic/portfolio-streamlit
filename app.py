@@ -11,7 +11,9 @@ st.set_page_config(
     layout="wide",
 )
 
-st.snow()
+with st.spinner(''):
+    time.sleep(1.5)
+st.success('Welcome to my portfolio')
 
 
 def load_lottieurl(url):
