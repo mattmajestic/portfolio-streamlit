@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.baloons()
+st.balloons()
 
 
 def load_lottieurl(url):
