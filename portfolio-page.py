@@ -6,8 +6,8 @@ from bokeh.models.widgets import Div
 
 
 st.set_page_config(
-    page_title="🚀 Matt Majestic's Portfolio Page 🚀",
-    page_icon=":boy:",
+    page_title="Matt Majestic's Portfolio Page",
+    page_icon=":laptop:",
     layout="wide",
 )
 
