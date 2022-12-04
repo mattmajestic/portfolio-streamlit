@@ -7,7 +7,7 @@ from bokeh.models.widgets import Div
 
 st.set_page_config(
     page_title="Matt Majestic's Portfolio Page",
-    page_icon=":laptop:",
+    page_icon=":rocket:",
     layout="wide",
 )
 
@@ -35,7 +35,7 @@ with st.container():
     col1, col2 = st.columns((2, 1))
     with col1:
         st.title("Welcome to my Portfolio Page!")
-        st.subheader("Hi, I'm Matt 🤗")
+        st.subheader("Hi, I'm Matt 🐍")
         st.subheader(
             """
             I'm a EST based *Python Developer* & *R Programmer* who specializes in the broad fields of *Automation*, *Data*, *Web Apps*, *DevOps*, *etc*.
