@@ -11,6 +11,8 @@ st.set_page_config(
     layout="wide",
 )
 
+st.snow()
+
 
 def load_lottieurl(url):
     r = requests.get(url)
