@@ -120,20 +120,15 @@ with st.container():
         st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
         st.subheader("Check out my Google classroom")
         st.write("I have lessons on programming & devops there")
-        if st.button('Github', key="ews_github"):
     with col2:
         st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
         st.subheader("shinyCRM")
         st.write("A lightweight CRM system in R Shiny.")
-        if st.button('Github', key="gee_github"):
     with col3:
         st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
         st.subheader("Crypto Currency Watchlist")
         st.write("Django web application that shows some basic data of your favourite crypto currencies.")
-        if st.button('Github', key="ccw_github"):
 
-
-# --- CONTACT ---
 with st.container():
     st.write("---")
     st.markdown("<h2 style='text-align: center;'>Contact</h2>", unsafe_allow_html=True)
